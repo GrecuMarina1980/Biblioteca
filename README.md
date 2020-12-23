@@ -9,3 +9,6 @@ Acest site oferă informații despre biblioteci...
 
 ### Pagina principală:
 S-a creat pagină introductivă, cu informații de bază. Aici am utilizat tabele, paragrafe, imagini...
+
+![Скриншот 23-12-2020 194430](https://user-images.githubusercontent.com/74015880/103023875-6ee67380-4557-11eb-95d3-f4d0d1ba25d4.jpg)
+
